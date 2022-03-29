@@ -1,0 +1,55 @@
+[{
+    "First Name": "Yash",
+    "Middle Name": "Rajendra",
+    "Last Name": "Chaudhari",
+    "Email": "demo1@gmail.com",
+    "Phone": "998765120",
+    "Role": "Trainee in Webapps",
+    "Address": "Pune"
+},
+{
+    "First Name": "Akshay",
+    "Middle Name": "Brijlal",
+    "Last Name": "Mahajan",
+    "Email": "demo2@gmail.com",
+    "Phone": "9988776655",
+    "Role": "Trainee in Webapps",
+    "Address": "Mumbai"
+},
+{
+    "First Name": "Jayesh",
+    "Middle Name": "Ankiet",
+    "Last Name": "Shinde",
+    "Email": "demo3@gmail.com",
+    "Phone": "9977665544",
+    "Role": "Lead in Webapps",
+    "Address": "Pune"
+},
+{
+    "First Name": "Aditya",
+    "Middle Name": "Kiran",
+    "Last Name": "Bhagwat",
+    "Email": "demo4@gmail.com",
+    "Phone": "8855665588",
+    "Role": "Trainee in Devops",
+    "Address": "Hyderabad"
+},
+{
+    "First Name": "Gauri",
+    "Middle Name": "Kishan",
+    "Last Name": "Verma",
+    "Email": "demo5@gmail.com",
+    "Phone": "8855665588",
+    "Role": "Trainee in Devops",
+    "Address": "Noida"
+},
+{
+    "First Name": "Puja",
+    "Middle Name": "Aditya",
+    "Last Name": "Bhagwat",
+    "Email": "demo6@gmail.com",
+    "Phone": "8855665588",
+    "Role": "Trainee in Devops",
+    "Address": "Mohali"
+}
+]
